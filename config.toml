@@ -15,6 +15,8 @@ language = "en"
 theme = "vncnt-hugo"
 title = "Alberto de Dios · Landing Page"
 
+googleAnalytics = "UA-39463839-5"
+
 [permalinks]
   fixed = ":title/"
   posts = "posts/:slug/"
@@ -23,7 +25,7 @@ title = "Alberto de Dios · Landing Page"
   author = "Alberto de Dios"
   email = "elraro@elraro.eu"
   description = "Landing Page"
-  bio = "Cybersecurity consultant\n\nhttps://return-to-libc.com/"
+  bio = "Cybersecurity consultant"
   avatar = "img/avatar.png"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
