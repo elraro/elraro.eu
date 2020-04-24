@@ -1,0 +1,3 @@
+Contact: mailto:elraro@elraro.eu
+Preferred-Languages: en, es
+Canonical: https://elraro.eu/.well-known/security.txt
